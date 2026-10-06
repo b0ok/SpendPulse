@@ -1,0 +1,6 @@
+{
+  "name": "SpendPulse - Expense & Budget Intelligence",
+  "description": "Comprehensive expense tracker and personal finance intelligence app featuring category spending limits with overrun alerts, bill payment reminders with configurable advance notifications, automated recurring expense logging, and interactive habit analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
